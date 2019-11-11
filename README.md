@@ -18,7 +18,7 @@ Get a random sentence from Zemin.
 
 可以为 `js`、`text`、`img`，默认为 `text`。
 
-## Exsamples
+## Examples
 
 ### JavaScript
 
