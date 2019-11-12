@@ -55,5 +55,9 @@ Get a random sentence from Zemin.
 
 ## Todo
 
+咕咕咕一时爽，一直咕一直爽
+
 - [ ] 优化图片大小处理，适应句子长度。
 - [ ] 支持返回「长者三篇」中指定篇目的语录。
+- [ ] 收录[更多语录](https://zh.wikiquote.org/zh/%E6%B1%9F%E6%B3%BD%E6%B0%91)。
+- [ ] 以 svg 形式返回。
