@@ -51,6 +51,8 @@ Get a random sentence from Zemin.
 
 ![quote](https://skywt.cn/zemin/?encode=img)
 
+（Github 中图片会有缓存，所以刷新页面后以上图片可能不更新。可以访问 [https://skywt.cn/zemin/?encode=img](https://skywt.cn/zemin/?encode=img) 查看效果）
+
 ## Todo
 
 - [ ] 优化图片大小处理，适应句子长度。
